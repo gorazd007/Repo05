@@ -8,7 +8,7 @@ function main(){
     return {
         myFirstName,
         myLastName,
-        myHomeTown
+        myHomeTown,
 
 };
 
